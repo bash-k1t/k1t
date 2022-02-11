@@ -12,7 +12,7 @@ mv --force k1t /usr/local/bin/k1t && chmod +x /usr/local/bin/k1t
 k1t -h
 
 #### Options:
-
+                                                              
     -h, --help            Show basic help message and exit                                                                                                                                                                                  
     --pull-list           Show list                                                                                                                                                                                                         
     --pull-all            Pull all                                                                                                                                                                                                          
