@@ -1,11 +1,11 @@
 # k1t
 k1t is a Red Team Weaponization Tool Rapid Deployment BASH Script.
 
-Usage
+Usage:
 
 bash k1t -h
 
-Add to environment variables
+Add to environment variables:
 
 mv --force k1t /usr/local/bin/k1t && chmod +x /usr/local/bin/k1t
 
